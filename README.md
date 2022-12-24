@@ -19,11 +19,7 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=shovon12j34&label=Profile%20views&color=0e75b6&style=flat" alt="shovon12j34">
 </p>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=shovon12j34" alt="shovon12j34">
-    </a>
-</p>
+
 - 🌱 I’m currently learning **Web Devlopment**
 
 - 💬 Ask me about **myself**
@@ -31,6 +27,13 @@
 - 📫 How to reach me **shovongorain1002@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
+
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=shovon12j34" alt="shovon12j34">
+    </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/shovon_gorain" target="blank">
