@@ -9,7 +9,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Shovon Gorain</h1>
-<h2 align="center">A passionate web-developer from India</h2>
+<h3 align="center">A passionate web-developer from India</h3>
 <img
     align="right"
     alt="coding"
@@ -19,7 +19,7 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=shovon12j34&label=Profile%20views&color=0e75b6&style=flat" alt="shovon12j34">
 </p>
-<h4>
+<h3>
 - 🌱 I’m currently learning **Web Devlopment**
 
 - 💬 Ask me about **myself**
@@ -27,7 +27,7 @@
 - 📫 How to reach me **shovongorain1002@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
-</h4>
+</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=shovon12j34" alt="shovon12j34">
