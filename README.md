@@ -150,19 +150,18 @@
         >
     </a>
 </p>
-<h2>
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonGorain12&show_icons=true&locale=en&layout=compact" alt="ShovonGorain12" />
 </p>
-<h2>
+<h2>GitHub Stas:</h2>
     <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShovonGorain12&show_icons=true&locale=en" alt="ShovonGorain12">
 </p>
-</h2>
+<h2>Current Streak:</h2>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonGorain12&" alt="ShovonGorain12">
 </p>
-</h2>
 <h2> 
     Contributions Calender📅
 </h2>
