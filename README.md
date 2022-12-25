@@ -162,9 +162,4 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonGorain12&" alt="ShovonGorain12">
 </p>
-<h2> 
-    Contributions Calender📅
-</h2>
-<p>
-    <img align="center" src="https://ssr-contributions-svg.vercel.app/_/ShovonGorain12?chart=3dbar&gap=0.6&scale=2&flatten=0&format=svg&weeks=30&theme=green" alt="ShovonGorain12">
-</p>
+
