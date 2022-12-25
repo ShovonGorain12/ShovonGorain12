@@ -17,7 +17,7 @@
     src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 >
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=shovon12j34&label=Profile%20views&color=0e75b6&style=flat" alt="shovon12j34">
+    <img src="https://komarev.com/ghpvc/?username=ShovonGorain12&label=Profile%20views&color=0e75b6&style=flat" alt="ShovonGorain12">
 </p>
 <h3>
     
@@ -31,11 +31,10 @@
 </h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=shovon12j34" alt="shovon12j34">
+        <img src="https://github-profile-trophy.vercel.app/?username=ShovonGorain12" alt="ShovonGorain12">
     </a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://twitter.com/shovon_gorain" target="blank">
         <img
@@ -91,7 +90,8 @@
         >
     </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
@@ -150,12 +150,22 @@
         >
     </a>
 </p>
+<h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shovon12j34&show_icons=true&locale=en&layout=compact" alt="shovon12j34" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonGorain12&show_icons=true&locale=en&layout=compact" alt="ShovonGorain12" />
 </p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shovon12j34&show_icons=true&locale=en" alt="shovon12j34">
+<h2>
+    <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShovonGorain12&show_icons=true&locale=en" alt="ShovonGorain12">
 </p>
+</h2>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon12j34&" alt="shovon12j34">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonGorain12&" alt="ShovonGorain12">
+</p>
+</h2>
+<h2> 
+    Contributions Calender📅
+</h2>
+<p>
+    <img align="center" src="https://ssr-contributions-svg.vercel.app/_/ShovonGorain12?chart=3dbar&gap=0.6&scale=2&flatten=0&format=svg&weeks=30&theme=green" alt="ShovonGorain12">
 </p>
